@@ -1,6 +1,6 @@
 # Say Big Numbers
 
-Este proyecto es una webapp que permite convertir números en su representación textual y realizar operaciones matemáticas con números grandes.
+Permite convertir números en su representación textual y realizar operaciones matemáticas con números grandes.
 
 ## Configuración del entorno local
 
